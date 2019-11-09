@@ -1,0 +1,26 @@
+{
+  "name": "m3u-uproxy-mapping",
+  "version": "1.0.0",
+  "description": "Maps multicast groups to uproxy http urls.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3r1w/m3u-uproxy-mapping.git"
+  },
+  "keywords": [
+    "udproxy",
+    "node",
+    "multicast",
+    "http",
+    "mapping"
+  ],
+  "author": "Nicolas Schaefli",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/d3r1w/m3u-uproxy-mapping/issues"
+  },
+  "homepage": "https://github.com/d3r1w/m3u-uproxy-mapping#readme"
+}
