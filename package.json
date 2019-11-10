@@ -1,6 +1,7 @@
 {
   "name": "m3u-uproxy-mapping",
   "version": "1.0.0",
+  "private": true,
   "description": "Maps multicast groups to uproxy http urls.",
   "main": "index.js",
   "scripts": {
