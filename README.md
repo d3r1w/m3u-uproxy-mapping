@@ -1,4 +1,8 @@
 # m3u-uproxy-mapping
+
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/d3r1w/m3u-uproxy-mapping.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/d3r1w/m3u-uproxy-mapping/context:javascript)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/d3r1w/m3u-uproxy-mapping.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/d3r1w/m3u-uproxy-mapping/alerts/)
+
 Maps multicast groups to uproxy http urls.
 
 ## Configuration
