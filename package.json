@@ -4,7 +4,8 @@
   "description": "Maps multicast groups to uproxy http urls.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node -r ./bootstrap.js ./index.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/d3r1w/m3u-uproxy-mapping/issues"
   },
-  "homepage": "https://github.com/d3r1w/m3u-uproxy-mapping#readme"
+  "homepage": "https://github.com/d3r1w/m3u-uproxy-mapping#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.8"
+  }
 }
